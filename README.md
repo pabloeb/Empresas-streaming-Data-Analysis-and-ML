@@ -34,7 +34,7 @@ de filtro colaborativo, se busca predecir si una película determinada es recome
 
 Se puede acceder a la consola de FastAPI a través del siguiente enlace:  
 
-https://proyecto-ml-labs1-09ll.onrender.com
+https://proyecto-ml-labs1-09ll.onrender.com                          (es lento para cargar, si no carga repetir) 
 
 Se ingresa a una imagen de portada y luego haciendo click sobre la pantalla se redirige a /docs donde se realizan la    
 mencionadas consultas. Los parámetros correspondientes son los siguientes:  
