@@ -29,6 +29,7 @@ Cantidad de películas por plataforma con filtro de PLATAFORMA. (La función deb
 Por otro lado, a través de un algoritmo de Machine Learning del tipo Sistema de Recomendación basado en la técnica  
 de filtro colaborativo, se busca predecir si una película determinada es recomendable para un usuario dado.
 
+
 `FastAPI en Render`
 
 Se puede acceder a la consola de FastAPI a través del siguiente enlace:  
@@ -44,9 +45,10 @@ mencionadas consultas. Los parámetros correspondientes son los siguientes:
 
 - Parametros consulta3 : platform (Netflix,Hulu,Disney,Amazon)  
 
-Tambien se puede hacer consultas directamente a través de la URL, por ejemplo:
+Tambien se puede hacer consultas directamente a través de la URL, por ejemplo:   
 
-`http://localhost:8000/consulta1?year=2014&platform=Netflix&duration_type=min   
+https://proyecto-ml-labs1-09ll.onrender.com/consulta1?year=2014&platform=Netflix&duration_type=min 
+
 
 `Consola de Gradio para predicciones de ML`  
 
