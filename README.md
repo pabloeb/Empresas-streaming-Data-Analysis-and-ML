@@ -72,4 +72,11 @@ EDA_Sistema_Recomendacion.ipynb: contiene el codigo del EDA y del modelo de Mach
 ETA_inicio_proyecto.ipynb: contiene la fase inicial del proyecto , limpieza y ordenamiento de datos.
 
 
+`Video explicativo del proyecto completo`  
+
+https://www.screencast.com/t/PlAriZSH4
+
+
+
+
 
