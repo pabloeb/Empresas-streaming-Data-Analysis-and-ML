@@ -54,7 +54,7 @@ https://proyecto-ml-labs1-09ll.onrender.com/consulta1?year=2014&platform=Netflix
 
 Se puede ingresar a la consola a través del siguiente enlace:  
 
-https://b8fcb1be5b1556d8ad.gradio.live
+https://7f9e3f7e0c4f7b7f12.gradio.live
 
 Se debe ingresar un número de identificación de cliente y de película. El modelo responderá el valor que ese usuario asignaría a la  
 película y en función de ello, si se le recomienda o no.El valor fijado para recomendar las películases de 3.5 puntos o más sobre un  
