@@ -62,9 +62,13 @@ máximo de 5.
 
 `Otro contenido del repositorio`
 Hay una serie de archivos para revisar el código utilizado para construir el proyecto.  
+
 main.py : contiene el código para creación de la API  
-Consola Gradio.ipynb : contiene el código para creación de la consola de Gradio 
+
+Consola Gradio.ipynb : contiene el código para creación de la consola de Gradio  
+
 EDA_Sistema_Recomendacion.ipynb: contiene el codigo del EDA y del modelo de Machine Learning (SVD,KNNWithMEANS,NMF)  
+
 ETA_inicio_proyecto.ipynb: contiene la fase inicial del proyecto , limpieza y ordenamiento de datos.
 
 
