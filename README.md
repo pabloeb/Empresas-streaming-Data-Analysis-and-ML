@@ -57,7 +57,7 @@ Se puede ingresar a la consola a través del siguiente enlace:
 https://7f9e3f7e0c4f7b7f12.gradio.live
 
 Se debe ingresar un número de identificación de cliente y de película. El modelo responderá el valor que ese usuario asignaría a la  
-película y en función de ello, si se le recomienda o no.El valor fijado para recomendar las películases de 3.5 puntos o más sobre un  
+película y en función de ello, si se le recomienda o no.El valor fijado para recomendar las películases de 3.75 puntos o más sobre un  
 máximo de 5.
 
 `Otro contenido del repositorio`
