@@ -1,4 +1,4 @@
-# Proyecto-ML-Labs1
+# Empresa de streaming - Consulta a bases de datos y Sistema de recomendación de películas y series
 
 
 
