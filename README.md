@@ -1,4 +1,4 @@
-# Empresa de streaming - Consulta a bases de datos y Sistema de recomendación de películas y series
+# Empresas de streaming - Consulta a bases de datos y Sistema de recomendación de películas y series
 
 
 
